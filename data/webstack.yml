@@ -1113,34 +1113,12 @@
 - taxonomy: 特殊网站
   icon: fas fa-coffee fa-lg
   list: 
-    - term: JavBus视频
+    - term: 磁力网站
       links:
         - title: javbus.com
           logo: javbus.com.png
           url: https://www.javbus.com
           description: 
-        - title: buscdn.help
-          logo: javbus.com.png
-          url: https://www.buscdn.help
-          description: 
-        - title: javbus.help
-          logo: javbus.com.png
-          url: https://javbus.help
-          description: 
-        - title: busfan.help
-          logo: javbus.com.png
-          url: https://busfan.help
-          description: 
-        - title: fanbus.help
-          logo: javbus.com.png
-          url: http://fanbus.help
-          description: 
-        - title: seejav.help
-          logo: javbus.com.png
-          url: http://seejav.help
-          description: 
-    - term: 磁力网站
-      links:
         - title: Jav目录
           logo: javmulu.png
           url: https://javmulu.net
