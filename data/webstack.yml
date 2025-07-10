@@ -1115,7 +1115,7 @@
   list: 
     - term: 磁力网站
       links:
-        - title: javbus.com
+        - title: JavBus
           logo: javbus.com.png
           url: https://www.javbus.com
           description: 
@@ -1234,22 +1234,22 @@
           logo: yanglei.png
           url: https://yangleiily.icoc.vc
           description: 个人网站
+        - title: 杨磊的博客
+          logo: freeddns.png
+          url: https://blog520.freeddns.org
+          description: hashnode
+        - title: 杜蕾斯博客
+          logo: Wordpress.png
+          url: https://blog520.pp.ua
+          description: serv00
         - title: 杨磊的分享博客
           logo: Wordpress.png
           url: https://blog520.dpdns.org
           description: infinityfree
         - title: 杨磊博客
           logo: blog520.png
-          url: https://www.blog520.pp.ua
+          url: https://www.yanglei.xx.kg
           description: Blogger
-        - title: 杨磊的博客
-          logo: freeddns.png
-          url: https://blog520.freeddns.org
-          description: hashnode
-        - title: 冰淇淋博客
-          logo: bk520.png
-          url: https://bk520.duckdns.org
-          description: hashnode
     - term: 导航网址
       links:
         - title: 冰宝路导航站
@@ -1257,7 +1257,7 @@
           url: https://yanglei.nyc.mn
           description: 
         - title: 仓鼠个人镜像导航
-          logo: cangshu.png
+          logo: dh110.png
           url: http://dh110.pp.ua
           description: 
         - title: 冰淇淋导航
